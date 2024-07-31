@@ -1,4 +1,4 @@
-![Serial Format](https://github.com/user-attachments/assets/358c08f5-e510-471a-95e7-b66c730b78f8)
+![Serial Format](https://github.com/user-attachments/assets/0792a1ef-0b21-4227-a4f2-0862cac172f3)
 
 > Develop unique alphanumerical serialized label codes for inventory management. Export a Serial Format Array file.
 
